@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/best-thiop/static/css/main.497be662.css",
+    "main.js": "/best-thiop/static/js/main.caa64367.js",
+    "index.html": "/best-thiop/index.html",
+    "main.497be662.css.map": "/best-thiop/static/css/main.497be662.css.map",
+    "main.caa64367.js.map": "/best-thiop/static/js/main.caa64367.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.497be662.css",
+    "static/js/main.caa64367.js"
+  ]
+}
